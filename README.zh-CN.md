@@ -10,7 +10,7 @@
 
 我的项目主要围绕可复现分析、科研工作流程，以及产品决策与技术评价之间的联系。
 
-[GitHub](https://github.com/YeY-zi) · [个人作品集](https://yey-zi.github.io/) — 计划使用的 GitHub Pages 地址，正在准备发布。
+[GitHub](https://github.com/YeY-zi) · [个人作品集](https://yey-zi.github.io/)
 
 ## 代表项目
 
