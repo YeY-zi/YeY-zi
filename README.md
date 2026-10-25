@@ -10,7 +10,7 @@ I am an MSc student in Electronic Commerce at City University of Hong Kong, with
 
 My projects focus on reproducible analysis, research workflows, and the connection between product decisions and technical evaluation.
 
-[GitHub](https://github.com/YeY-zi) · [Portfolio](https://yey-zi.github.io/) — intended GitHub Pages address; publication is in progress.
+[GitHub](https://github.com/YeY-zi) · [Portfolio](https://yey-zi.github.io/)
 
 ## Selected work
 
