@@ -6,7 +6,7 @@
 
 English · [简体中文](README.zh-CN.md)
 
-I am an MSc student in Electronic Commerce at City University of Hong Kong, with a BEng background in Internet of Things Engineering. I am interested in using data and AI tools to investigate practical problems, build small working prototypes, and explain what the evidence supports.
+I am an MSc student in Electronic Commerce at City University of Hong Kong, with a BEng background in Internet of Things Engineering at Fuzhou University from 2022 to 2026. I am interested in using data and AI tools to investigate practical problems, build small working prototypes, and explain what the evidence supports.
 
 My projects focus on reproducible analysis, research workflows, and the connection between product decisions and technical evaluation.
 
